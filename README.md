@@ -1,6 +1,10 @@
 # Ops provisioning with Vagrant
 > How to provision and run an NGINX as a load balancer in Vagrant
 
+![example.png](./example.png)
+
+Load balance with NGINX in docker inside a VM using Vagrant.
+
 ## How-to
 
 Run the whole stack with:
